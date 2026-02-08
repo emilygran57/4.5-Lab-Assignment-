@@ -2,3 +2,64 @@
 a.active {
     font-weight: bold;
 }
+h1 { 
+    color: #5B4836;margin-left: 20px;
+    background-color: rgb(249, 237, 212); width: 2000px;height: 50px; margin-top:-10px; 
+    right: 28px;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+.text-container {
+    color: #5B4836; margin-left: 50px;font-weight: bolder; font-size: xx-large;
+    position: relative;
+}
+h3 { 
+    color: #5B4836;
+    font-size:x-large;
+    font-weight: bolder;
+    position: sticky;
+    margin-left: 425px;
+    margin-top: 120px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+ p {
+    color: #5B4836;
+    font-size: medium;
+    font-weight:lighter;
+    position: relative; 
+    margin-top: 5px;
+    left: 50px;
+    font-family:'Courier New', Courier, monospace;
+
+
+ }  
+
+ h2 {
+     color: #5B4836;
+    font-size: xx-large;
+    font-weight: bolder;
+    position: relative;
+    top: 50%;
+    left: 35px;
+    font-family:'Courier New', Courier, monospace
+ }
+
+body{
+    background-color: #F5D5A9;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-top: 190px;
+    margin-left: 70px;
+    float: left;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+
+}
